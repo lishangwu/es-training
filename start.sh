@@ -1,0 +1,1 @@
+./elasticsearch-5.5.1/bin/elasticsearch -d && ./elasticsearch-5.5.1-slave1/bin/elasticsearch -d && ./elasticsearch-5.5.1-slave2/bin/elasticsearch -d
