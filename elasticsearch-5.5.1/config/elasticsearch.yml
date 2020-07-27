@@ -90,7 +90,7 @@
 http.cors.enabled: true
 http.cors.allow-origin: "*"
 
-cluster.name: wali
+cluster.name: es_cluster
 node.name: master
 node.master: true
 

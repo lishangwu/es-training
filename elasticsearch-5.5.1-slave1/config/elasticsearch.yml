@@ -87,7 +87,7 @@
 #
 #action.destructive_requires_name: true
 
-cluster.name: wali
+cluster.name: es_cluster
 node.name: slave1
 
 network.host: 127.0.0.1
